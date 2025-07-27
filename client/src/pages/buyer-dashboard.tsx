@@ -58,7 +58,7 @@ export default function BuyerDashboard() {
                     Browse Food Rescue
                   </Button>
                 </Link>
-                <Button variant="outline" className="border-white text-white hover:bg-white/10">
+                <Button className="bg-white text-primary hover:bg-white/90">
                   <MapPin className="w-4 h-4 mr-2" />
                   Find Vendors Near Me
                 </Button>
